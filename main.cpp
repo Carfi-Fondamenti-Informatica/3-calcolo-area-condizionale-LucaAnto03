@@ -18,6 +18,8 @@ int main() {
             area = a*b;
             cout << area ;
             break;
+        default :
+          cout << "opzione non valida" ;
     }
    return 0;
 }
